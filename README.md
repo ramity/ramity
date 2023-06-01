@@ -71,7 +71,7 @@
 | [world-sim](https://github.com/ramity/world-sim) | [Incomplete] The beginnings of the backend for a game that never quite took off. Left for reference |
 | [Bent](https://github.com/ramity/Bent) | A simple game that uses a php websocket backend and electron frontend + three.js for rendering. |
 | [Bent-Client](https://github.com/ramity/Bent-Client) | An electron client for a simple game |
-| [js-map-generator](https://github.com/ramity/js-map-generator) | Simple but effective rogue-like map generator. Featured on my LinkedIn |
+| [js-map-generator](https://github.com/ramity/js-map-generator) | Simple but effective rogue-like map generator. Featured on my LinkedIn. View [here](http://ramity.github.io/js-map-generator/) |
 
 # Work:
 | Name | Description |
