@@ -15,6 +15,7 @@
 | [iris](https://github.com/ramity/iris) | A suite of tools for key management (generation, distribution, storage, rotation), en/decryption of data, and validation of integrity and authenticity of data. Created for communicating over unsecure channels |
 | [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
 | [discord wordle processor](https://github.com/ramity/discord-wordle-processor) | Discover your discord server's Wordle leaderboard and finally settle who reigns supreme! Calculate detailed statistics from shared results like share count, current and max streak, weighted score, offByOne count, average % per guess, and more! |
+| [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
 
 # Machine learning:
 | Name | Description |
@@ -25,8 +26,6 @@
 | Name | Description |
 | --- | --- | 
 | [apexCV](https://github.com/ramity/apexcv) | [Incomplete] A computer vision framework/toolset for scraping Apex Legends videos for meaningful data and statistics over time |
-| [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
-| [twitchScrape](https://github.com/ramity/TwitchScrape) | A twitch stream data scraper that enables side-by-side parsing of the downloaded byte stream with opencv. |
 | [opencv table detection](https://github.com/ramity/opencv-table-detection) | A simple table detection apporach created entirely with opencv |
 | [lane detection](https://github.com/ramity/lane-detection) | A simple lane detection program created entirely with opencv |
 | [opencv text detection](https://github.com/ramity/opencv-text-detection) | A simple text detection approach created entirely with opencv |
@@ -59,7 +58,8 @@
 
 # Scrapers
 | Name | Description |
-| --- | --- | 
+| --- | --- |
+| [twitchScrape](https://github.com/ramity/TwitchScrape) | A twitch stream data scraper that enables side-by-side parsing of the downloaded byte stream with opencv. |
 | [typho](https://github.com/ramity/typho) | [Incomplete] The beginnings of a stock data scraper that cross-references alphaadvantage stock data and google trend data |
 | [trade-paint](https://github.com/ramity/trade-paint) | [Incomplete] A simple autolist.com scraper to populate and filter available vehicles |
 | [potflip](https://github.com/ramity/potflip) | [Deprecated] RSbuddy is no longer supported. See README for notice. This repo contains a few php scripts to assist in flipping potions for a profit in osrs using the rsbuddy API. See README for example output. |
