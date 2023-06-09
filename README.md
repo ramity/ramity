@@ -16,6 +16,7 @@
 | [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
 | [discord wordle processor](https://github.com/ramity/discord-wordle-processor) | Discover your discord server's Wordle leaderboard and finally settle who reigns supreme! Calculate detailed statistics from shared results like share count, current and max streak, weighted score, offByOne count, average % per guess, and more! |
 | [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
+| [ramusign](https://github.com/ramity/ramusign) | A free, self-deployable docuSign clone |
 
 # Machine learning:
 | Name | Description |
