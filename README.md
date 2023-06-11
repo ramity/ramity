@@ -1,28 +1,32 @@
 <h1 align="center">Howdy 🤠</h1>
 <h4 align="center">I'm Lewis. I like a lot of things. I write code.</h4>
 <p align="center">
-  <a href="https://www.google.com/search?q=%22It%27s+closed+source+until+it+isn%27t.%22">
-    <img src="https://github.com/ramity/ramity/assets/8001375/30202e7d-d2a7-4fd4-9792-dbb01c460ca6">
-  </a>
+  <img src="https://github.com/ramity/ramity/assets/8001375/30202e7d-d2a7-4fd4-9792-dbb01c460ca6">
 </p>
 <p align="center">
-  <a href="https://ramity.github.io/portfolio/">Portfolio</a>
+  Check out my <a href="https://ramity.github.io/portfolio/">portfolio</a>.
 </p>
 
 # Current projects:
+
 | Name | Description |
 | --- | --- |
 | [iris](https://github.com/ramity/iris) | A suite of tools for key management (generation, distribution, storage, rotation), en/decryption of data, and validation of integrity and authenticity of data. Created for communicating over unsecure channels |
 | [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
-| [discord wordle processor](https://github.com/ramity/discord-wordle-processor) | Discover your discord server's Wordle leaderboard and finally settle who reigns supreme! Calculate detailed statistics from shared results like share count, current and max streak, weighted score, offByOne count, average % per guess, and more! |
 | [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
 
-# Machine learning:
+---
+
+# Past projects:
+
+> Some of the projects below get some love every now and then, but they aren't current focuses.
+
+## Machine learning
 | Name | Description |
 | --- | --- |
 | [VED pwn](https://github.com/ramity/VED-pwn) | An ML experiment showing vehicle OBDII data is a uniquely identifiable. Utilizes the VED dataset detailed [here](https://arxiv.org/abs/1905.02081) |
 
-# Computer vision:
+## Computer vision
 | Name | Description |
 | --- | --- | 
 | [apexCV](https://github.com/ramity/apexcv) | [Incomplete] A computer vision framework/toolset for scraping Apex Legends videos for meaningful data and statistics over time |
@@ -32,40 +36,41 @@
 | [edge detection comparison](https://github.com/ramity/edge-detection-comparison) | A simple script to compare different forms of edge detection with opencv |
 | [optical flow](https://github.com/ramity/optical-flow) | A simple script to perform optical flow with opencv |
 
-# Minecraft
+## Minecraft
 | Name | Description |
 | --- | --- | 
 | [minecraft](https://github.com/ramity/minecraft) | A dockerized vanilla minecraft setup. |
 | [vault hunters 3](https://github.com/ramity/vault-hunters-3) | A painless and fully featured dockerized server for the Vault Hunters 3 modpack. Now with ramdisk support! |
 
-# Docker boilerplates:
+## Docker boilerplates
 | Name | Description |
 | --- | --- | 
 | [DLNA-kickstart](https://github.com/ramity/DLNA-kickstart) | A repo to kickstart a [D]ocker powered [L]inux image running a [N]ode [N]ativescript [A]ngular stack. |
 | [DLAMPS-kickstart](https://github.com/ramity/DLAMPS-kickstart) | A repo to kickstart a [D]ocker powered [L]inux image running an [A]pache [M]ySQL [P]HP [S]ymfony stack. |
 | [soothsayer](https://github.com/ramity/soothsayer) | A simple flask boilerplate for quickly creating web accessible applications created during my walmart internship. |
 
-# Distributed networking:
+## Distributed networking
 | Name | Description |
 | --- | --- | 
 | [theia](https://github.com/ramity/theia) | [Incomplete] A stab at allowing opencv operations to be performed by a pool of machines. |
 
-# Utility
+## Utility
 | Name | Description |
 | --- | --- | 
 | [ssh-scripts](https://github.com/ramity/ssh-scripts) | Dead simple ssh-agent start and stop scripts to prevent terminals from creating multiple ssh-agent processes |
 | [virtual-host-manager](https://github.com/ramity/virtual-host-manager) | Client based interface to quickly set up virtual hosts on development machines |
 
-# Scrapers
+## Scrapers
 | Name | Description |
 | --- | --- |
+| [discord wordle processor](https://github.com/ramity/discord-wordle-processor) | Discover your discord server's Wordle leaderboard and finally settle who reigns supreme! Calculate detailed statistics from shared results like share count, current and max streak, weighted score, offByOne count, average % per guess, and more! |
+| [potflip](https://github.com/ramity/potflip) | [Deprecated] RSbuddy is no longer supported. See README for notice. This repo contains a few php scripts to assist in flipping potions for a profit in osrs using the rsbuddy API. See README for example output. |
+| [wowah](https://github.com/ramity/wowah) | [Deprecated] A simple data scraper for loading and parsing the WoW auction house api. |
 | [twitchScrape](https://github.com/ramity/TwitchScrape) | A twitch stream data scraper that enables side-by-side parsing of the downloaded byte stream with opencv. |
 | [typho](https://github.com/ramity/typho) | [Incomplete] The beginnings of a stock data scraper that cross-references alphaadvantage stock data and google trend data |
 | [trade-paint](https://github.com/ramity/trade-paint) | [Incomplete] A simple autolist.com scraper to populate and filter available vehicles |
-| [potflip](https://github.com/ramity/potflip) | [Deprecated] RSbuddy is no longer supported. See README for notice. This repo contains a few php scripts to assist in flipping potions for a profit in osrs using the rsbuddy API. See README for example output. |
-| [wowah](https://github.com/ramity/wowah) | [Deprecated] A simple data scraper for loading and parsing the WoW auction house api. |
 
-# Game related
+## Game related
 | Name | Description |
 | --- | --- | 
 | [world-sim](https://github.com/ramity/world-sim) | [Incomplete] The beginnings of the backend for a game that never quite took off. Left for reference |
@@ -73,24 +78,24 @@
 | [Bent-Client](https://github.com/ramity/Bent-Client) | An electron client for a simple game |
 | [js-map-generator](https://github.com/ramity/js-map-generator) | Simple but effective rogue-like map generator. Featured on my LinkedIn. View [here](http://ramity.github.io/js-map-generator/) |
 
-# Work:
+## Work
 | Name | Description |
 | --- | --- | 
 | [CTTP-Lab-Cert](https://github.com/ramity/CTTP-Lab-Cert) | [Deprecated] - Moved to private phabricator repo. One of my first projects at CTTP. Left for reference. Features a self created google spreadsheet clone for managing lab certifications |
 | [Storyline-AJAX-integration](https://github.com/ramity/Storyline-AJAX-integration) | Sweet and simple AJAX implementation to hack in functionality of getting grade values out of a Storyline application. |
 
-# Web applications:
+## Web applications
 | Name | Description |
 | --- | --- | 
 | [micro](https://github.com/ramity/micro) | [Incomplete] The beginnings of a micro management interface for logging and inventorying food, clothes, and events. Left for reference and inspiration |
 | [assistant](https://github.com/ramity/assistant) | [Incomplete] A simple micromanager for managing food, finances, closet, and time tracking |
 
-# Interview:
+## Interview
 | Name | Description |
 | --- | --- | 
 | [supply-pike-interview](https://github.com/ramity/supply-pike-interview) | Timed programming interview questions from local software development firm, Supply Pike. |
 
-# School
+## School
 | Name | Description |
 | --- | --- | 
 | [Caesar-Cipher](https://github.com/ramity/Caesar-Cipher) | Sweet and simple sub 70 line functioning and interactive Caesar Cipher written in MIPS32 assembly |
@@ -139,7 +144,7 @@
 | [CSCE-2004-A1](https://github.com/ramity/CSCE-2004-A1) | Programming Foundations I - Assignment 1 |
 | [GNEG-1103-electronics](https://github.com/ramity/GNEG-1103-electronics) | Some simple Arduino scripts created for the electronics section of the general engineering course. |
 
-# Historical
+## Historical
 | Name | Description |
 | --- | --- | 
 | [faceswap](https://github.com/ramity/faceswap) | Non official project based on original /r/Deepfakes thread. |
