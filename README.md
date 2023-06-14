@@ -21,12 +21,17 @@
 
 > Some of the projects below get some love every now and then, but they aren't current focuses.
 
-## Machine learning
+<details>
+  <summary>Machine learning</summary>
+
 | Name | Description |
 | --- | --- |
 | [VED pwn](https://github.com/ramity/VED-pwn) | An ML experiment showing vehicle OBDII data is a uniquely identifiable. Utilizes the VED dataset detailed [here](https://arxiv.org/abs/1905.02081) |
+</details>
 
-## Computer vision
+<details>
+  <summary>Computer vision</summary>
+
 | Name | Description |
 | --- | --- | 
 | [apexCV](https://github.com/ramity/apexcv) | [Incomplete] A computer vision framework/toolset for scraping Apex Legends videos for meaningful data and statistics over time |
@@ -35,32 +40,46 @@
 | [opencv text detection](https://github.com/ramity/opencv-text-detection) | A simple text detection approach created entirely with opencv |
 | [edge detection comparison](https://github.com/ramity/edge-detection-comparison) | A simple script to compare different forms of edge detection with opencv |
 | [optical flow](https://github.com/ramity/optical-flow) | A simple script to perform optical flow with opencv |
+</details>
 
-## Minecraft
+<details>
+  <summary>Minecraft</summary>
+
 | Name | Description |
 | --- | --- | 
 | [minecraft](https://github.com/ramity/minecraft) | A dockerized vanilla minecraft setup. |
 | [vault hunters 3](https://github.com/ramity/vault-hunters-3) | A painless and fully featured dockerized server for the Vault Hunters 3 modpack. Now with ramdisk support! |
+</details>
 
-## Docker boilerplates
+<details>
+  <summary>Docker boilerplates</summary>
+
 | Name | Description |
 | --- | --- | 
 | [DLNA-kickstart](https://github.com/ramity/DLNA-kickstart) | A repo to kickstart a [D]ocker powered [L]inux image running a [N]ode [N]ativescript [A]ngular stack. |
 | [DLAMPS-kickstart](https://github.com/ramity/DLAMPS-kickstart) | A repo to kickstart a [D]ocker powered [L]inux image running an [A]pache [M]ySQL [P]HP [S]ymfony stack. |
 | [soothsayer](https://github.com/ramity/soothsayer) | A simple flask boilerplate for quickly creating web accessible applications created during my walmart internship. |
+</details>
 
-## Distributed networking
+<details>
+  <summary>Distributed networking</summary>
+
 | Name | Description |
 | --- | --- | 
 | [theia](https://github.com/ramity/theia) | [Incomplete] A stab at allowing opencv operations to be performed by a pool of machines. |
+</details>
+<details>
+  <summary>Utility</summary>
 
-## Utility
 | Name | Description |
 | --- | --- | 
 | [ssh-scripts](https://github.com/ramity/ssh-scripts) | Dead simple ssh-agent start and stop scripts to prevent terminals from creating multiple ssh-agent processes |
 | [virtual-host-manager](https://github.com/ramity/virtual-host-manager) | Client based interface to quickly set up virtual hosts on development machines |
+</details>
 
-## Scrapers
+<details>
+  <summary>Scrapers</summary>
+
 | Name | Description |
 | --- | --- |
 | [discord wordle processor](https://github.com/ramity/discord-wordle-processor) | Discover your discord server's Wordle leaderboard and finally settle who reigns supreme! Calculate detailed statistics from shared results like share count, current and max streak, weighted score, offByOne count, average % per guess, and more! |
@@ -69,33 +88,48 @@
 | [twitchScrape](https://github.com/ramity/TwitchScrape) | A twitch stream data scraper that enables side-by-side parsing of the downloaded byte stream with opencv. |
 | [typho](https://github.com/ramity/typho) | [Incomplete] The beginnings of a stock data scraper that cross-references alphaadvantage stock data and google trend data |
 | [trade-paint](https://github.com/ramity/trade-paint) | [Incomplete] A simple autolist.com scraper to populate and filter available vehicles |
+</details>
 
-## Game related
+<details>
+  <summary>Game related</summary>
+
 | Name | Description |
 | --- | --- | 
 | [world-sim](https://github.com/ramity/world-sim) | [Incomplete] The beginnings of the backend for a game that never quite took off. Left for reference |
 | [Bent](https://github.com/ramity/Bent) | A simple game that uses a php websocket backend and electron frontend + three.js for rendering. |
 | [Bent-Client](https://github.com/ramity/Bent-Client) | An electron client for a simple game |
 | [js-map-generator](https://github.com/ramity/js-map-generator) | Simple but effective rogue-like map generator. Featured on my LinkedIn. View [here](http://ramity.github.io/js-map-generator/) |
+</details>
 
-## Work
+<details>
+  <summary>Work</summary>
+
 | Name | Description |
 | --- | --- | 
 | [CTTP-Lab-Cert](https://github.com/ramity/CTTP-Lab-Cert) | [Deprecated] - Moved to private phabricator repo. One of my first projects at CTTP. Left for reference. Features a self created google spreadsheet clone for managing lab certifications |
 | [Storyline-AJAX-integration](https://github.com/ramity/Storyline-AJAX-integration) | Sweet and simple AJAX implementation to hack in functionality of getting grade values out of a Storyline application. |
+</details>
 
-## Web applications
+<details>
+  <summary>Web applications</summary>
+
 | Name | Description |
 | --- | --- | 
 | [micro](https://github.com/ramity/micro) | [Incomplete] The beginnings of a micro management interface for logging and inventorying food, clothes, and events. Left for reference and inspiration |
 | [assistant](https://github.com/ramity/assistant) | [Incomplete] A simple micromanager for managing food, finances, closet, and time tracking |
+</details>
 
-## Interview
+<details>
+  <summary>Interview</summary>
+
 | Name | Description |
 | --- | --- | 
 | [supply-pike-interview](https://github.com/ramity/supply-pike-interview) | Timed programming interview questions from local software development firm, Supply Pike. |
+</details>
 
-## School
+<details>
+  <summary>School</summary>
+
 | Name | Description |
 | --- | --- | 
 | [Caesar-Cipher](https://github.com/ramity/Caesar-Cipher) | Sweet and simple sub 70 line functioning and interactive Caesar Cipher written in MIPS32 assembly |
@@ -143,9 +177,13 @@
 | [CSCE-2004-A2](https://github.com/ramity/CSCE-2004-A2) | Programming Foundations I - Assignment 2 |
 | [CSCE-2004-A1](https://github.com/ramity/CSCE-2004-A1) | Programming Foundations I - Assignment 1 |
 | [GNEG-1103-electronics](https://github.com/ramity/GNEG-1103-electronics) | Some simple Arduino scripts created for the electronics section of the general engineering course. |
+</details>
 
-## Historical
+<details>
+  <summary>Historical</summary>
+
 | Name | Description |
 | --- | --- | 
 | [faceswap](https://github.com/ramity/faceswap) | Non official project based on original /r/Deepfakes thread. |
 | [Mirai](https://github.com/ramity/Mirai) | Source code from the original mirai botnet hack forum post. Prior to its release on the forum, it was attributed to having created some of the largest botnets and DDoS attacks ever seen. It was formative in IoT manufactures cleaning up their act in the use of factory default usernames and passwords. |
+</details>
