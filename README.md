@@ -11,6 +11,7 @@
 
 | Name | Description |
 | --- | --- |
+| [ally](https://github.com/ramity/ally) | A companion hub |
 | [iris](https://github.com/ramity/iris) | A suite of tools for key management (generation, distribution, storage, rotation), en/decryption of data, and validation of integrity and authenticity of data. Created for communicating over unsecure channels |
 | [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
 | [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
