@@ -11,10 +11,12 @@
 
 | Name | Description |
 | --- | --- |
-| [ally](https://github.com/ramity/ally) | A companion hub |
-| [iris](https://github.com/ramity/iris) | A suite of tools for key management (generation, distribution, storage, rotation), en/decryption of data, and validation of integrity and authenticity of data. Created for communicating over unsecure channels |
+| [conjure](https://github.com/ramity/conjure) | A code generation experiment. All code must be generated via the use of generator scripts or ChatGPT responses. |
 | [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
-| [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
+
+
+
+
 
 ---
 
@@ -34,7 +36,8 @@
   <summary>Computer vision</summary>
 
 | Name | Description |
-| --- | --- | 
+| --- | --- |
+| [athena](https://github.com/ramity/athena) | A docker setup for opencv experiments featuring a locally compiled version of opencv for more features and formats |
 | [apexCV](https://github.com/ramity/apexcv) | [Incomplete] A computer vision framework/toolset for scraping Apex Legends videos for meaningful data and statistics over time |
 | [opencv table detection](https://github.com/ramity/opencv-table-detection) | A simple table detection apporach created entirely with opencv |
 | [lane detection](https://github.com/ramity/lane-detection) | A simple lane detection program created entirely with opencv |
@@ -73,7 +76,8 @@
   <summary>Utility</summary>
 
 | Name | Description |
-| --- | --- | 
+| --- | --- |
+| [iris](https://github.com/ramity/iris) | A suite of tools for key management (generation, distribution, storage, rotation), en/decryption of data, and validation of integrity and authenticity of data. Created for communicating over unsecure channels |
 | [ssh-scripts](https://github.com/ramity/ssh-scripts) | Dead simple ssh-agent start and stop scripts to prevent terminals from creating multiple ssh-agent processes |
 | [virtual-host-manager](https://github.com/ramity/virtual-host-manager) | Client based interface to quickly set up virtual hosts on development machines |
 </details>
@@ -118,6 +122,7 @@
 | --- | --- | 
 | [micro](https://github.com/ramity/micro) | [Incomplete] The beginnings of a micro management interface for logging and inventorying food, clothes, and events. Left for reference and inspiration |
 | [assistant](https://github.com/ramity/assistant) | [Incomplete] A simple micromanager for managing food, finances, closet, and time tracking |
+| [ally](https://github.com/ramity/ally) | A companion hub |
 </details>
 
 <details>
