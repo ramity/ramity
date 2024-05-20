@@ -10,13 +10,7 @@
 # Current projects:
 
 | Name | Description |
-| --- | --- |
-| [conjure](https://github.com/ramity/conjure) | A code generation experiment. All code must be generated via the use of generator scripts or ChatGPT responses. |
-| [ramium](https://github.com/ramity/ramium) | A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
-
-
-
-
+| [Clerk](https://github.com/ramity/clerk) | Fully-contained gitlab devops solution for dictating programming instructions to a NLP model via task and PR-review flows. |
 
 ---
 
@@ -29,6 +23,7 @@
 
 | Name | Description |
 | --- | --- |
+| [conjure](https://github.com/ramity/conjure) | A code generation experiment. All code must be generated via the use of generator scripts or ChatGPT responses. |
 | [VED pwn](https://github.com/ramity/VED-pwn) | An ML experiment showing vehicle OBDII data is a uniquely identifiable. Utilizes the VED dataset detailed [here](https://arxiv.org/abs/1905.02081) |
 </details>
 
@@ -71,6 +66,7 @@
 | Name | Description |
 | --- | --- | 
 | [theia](https://github.com/ramity/theia) | [Incomplete] A stab at allowing opencv operations to be performed by a pool of machines. |
+| [ramium](https://github.com/ramity/ramium) | [Incomplete] A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
 </details>
 <details>
   <summary>Utility</summary>
