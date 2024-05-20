@@ -10,6 +10,7 @@
 # Current projects:
 
 | Name | Description |
+| --- | --- |
 | [Clerk](https://github.com/ramity/clerk) | Fully-contained gitlab devops solution for dictating programming instructions to a NLP model via task and PR-review flows. |
 
 ---
