@@ -11,7 +11,7 @@
 
 | Name | Description |
 | --- | --- |
-| [Clerk](https://github.com/ramity/clerk) | Fully-contained gitlab devops solution for dictating programming instructions to a NLP model via task and PR-review flows. |
+| [Clerk](https://github.com/ramity/clerk) | We have AI-generated pull requests at home with Docker, Ollama, and Gitlab. |
 
 ---
 
