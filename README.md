@@ -7,25 +7,15 @@
   Check out my <a href="https://ramity.github.io/portfolio/">portfolio</a>.
 </p>
 
-# Current projects:
-
-| Name | Description |
-| --- | --- |
-| [Clerk](https://github.com/ramity/clerk) | We have AI-generated pull requests at home with Docker, Ollama, and Gitlab. |
-
----
-
-# Past projects:
-
-> Some of the projects below get some love every now and then, but they aren't current focuses.
-
 <details>
   <summary>Machine learning</summary>
 
 | Name | Description |
 | --- | --- |
+| [clerk](https://github.com/ramity/clerk) | We have AI-generated pull requests at home with Docker, Ollama, and Gitlab. |
 | [conjure](https://github.com/ramity/conjure) | A code generation experiment. All code must be generated via the use of generator scripts or ChatGPT responses. |
 | [VED pwn](https://github.com/ramity/VED-pwn) | An ML experiment showing vehicle OBDII data is a uniquely identifiable. Utilizes the VED dataset detailed [here](https://arxiv.org/abs/1905.02081) |
+
 </details>
 
 <details>
