@@ -177,6 +177,5 @@
 
 | Name | Description |
 | --- | --- | 
-| [faceswap](https://github.com/ramity/faceswap) | Non official project based on original /r/Deepfakes thread. |
 | [Mirai](https://github.com/ramity/Mirai) | Source code from the original mirai botnet hack forum post. Prior to its release on the forum, it was attributed to having created some of the largest botnets and DDoS attacks ever seen. It was formative in IoT manufactures cleaning up their act in the use of factory default usernames and passwords. |
 </details>
