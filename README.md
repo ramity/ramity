@@ -1,11 +1,55 @@
-<h1 align="center">Howdy 🤠</h1>
-<h4 align="center">I'm Lewis. I like a lot of things. I write code.</h4>
-<p align="center">
-  Check out my <a href="https://ramity.github.io/portfolio/">portfolio</a>.
+<h1>
+Howdy🤠
+</h1>
+
+<p>
+I'm Lewis. Welcome to my GitHub! I'm a generalist software engineer with a deep toolkit and a wide lens.
 </p>
 
+<h1>Current Projects</h1>
+
+| Name | Description |
+| --- | --- |
+| [Wrychain](https://github.com/Wrychain) | ⛓️‍💥 An experimental, hackable, mobile-first social platform for custom interactions and shared channels. |
+| [Braillest](https://github.com/Braillest) | 🦮 Open-source braille embossing via 3D-printed molds. Faster than you'd expect, cheaper than anything else. |
+| [Caspnetti](https://github.com/ramity/caspnetti) |  🍝 An opinionated full-stack boilerplate combining a Dockerized C# ASP.NET Core backend with a Vue.js frontend. |
+
+<h1>Hire me</h1>
+
+<p>
+I'm looking for senior and staff software engineering opportunities with a preference towards positions towards individual contributor roles.
+</p>
+
+<h1>Background</h1>
+
+<p>
+My experience in software goes all the way back to 2005 when I got my first laptop - a single core Pentium and 1GB of RAM. I was fascinated by the command prompt and learned how to write batch scripts. I wrote a simple cupholder script, and something inside me clicked. I was hooked. I started learning web development as a hobby during the days of HTML4 and raw javascript before jQuery. Around that time, I made a lot of raw WAMP websites making chat boards and blogging websites for friends and I to use on ramity.com.
+</p>
+
+<p>
+In high school, I got my first bit of contract work by doing a few simple business websites. I also contributed some code to the school website before they transitioned to google sites (yuck), and helped with yearbook and the student literature journal with XHTML work. I took a web design class junior year, and the teacher became my first mentor that fanned the flames and urged me to continue pursuing my interest in web development. They pushed me to learn git and to start preserving the code I worked on.
+</p>
+
+<p>
+In freshman year of college, I got my first official position doing software as a full stack developer. Doing so allowed me to put myself through college. For extra money during my undergrad, I started doing remote freelance work with a co-worker and long time friend @austinsk8s for a software company based in Germany. We'd go on to work on some pretty cool projects like a pre amazon go self grocery experience, a BMW inventory system overhaul using barcode scanning gloves and programmable ink displays, a Uber-like bus hailing service for rural communities sponsored by the EU, and an uber-for-planes web experience for a local charter service. During college, I also did a summer internship at Walmart corporate and created a human moderated optical character recognition and computer vision tagging system for digitizing produce receipts.
+</p>
+
+<p>
+At some point I decided to extend my time in academia to pursue a master's degree. I liked the idea of exploring AI and cybersecurity further to add some more tools to my toolkit. I got a research assistantship and contributed to a DoE funded project doing AI powered CVE patch recommendation and remediation for cortical devices on US electrical grids. Alongside that work, I did a thesis on a new way of distributed training using hybrid context unaware indexing to enable privacy preserving, deterministic, and auditable training of models offering configurable resilience to node drop out and privacy guarantees. During my last semester, I did a teaching assistantship position for incoming freshman programming foundations I and II. The position instilled a love for mentoring and teaching.
+</p>
+
+<p>
+After grad school, I got a senior security engineer (AI) position at H&R Block. One of the main projects I worked on was the company's "fraud engine" which was an API service for DIY tax flows could utilize to determine the likelihood of a tax return being fraudulent to prevent giving refunds or other services to fraudulent entities. I learned .NET and azure cloud suite to implement a custom interpreter engine featuring frequency analysis, custom AI model evaluation, dynamically executed rule logic, atomic rule updates, hash caching techniques for efficiency. The project saved the company millions by eliminating projected fraud costs. It's the first project that I created that automatically scales to handle 100+ requests/second while keeping response times smaller than 500ms during the tax season peak.
+</p>
+
+<p>
+Unfortunately my time at Block came to an end during a time of company downsizing and exodus, stock buyback, DOGE fueled speculatively, and executive churn. Making the best out of a bad situation, at the start of 2025 I started my first independent, philanthropic venture and created <a src="https://braillest.com">braillest</a>. Through it, I added 3D printing, CAD, blender modeling, and a better understanding of braille, web accessibility, and screen readers to my repertoire. I believe in braillest's potential to change the lives of those who rely on braille as a medium. Braillest makes braille cheaper than print.
+</p>
+
+<h1>Repos</h1>
+
 <details>
-  <summary>Machine learning</summary>
+<summary>Machine learning</summary>
 
 | Name | Description |
 | --- | --- |
@@ -16,7 +60,7 @@
 </details>
 
 <details>
-  <summary>Computer vision</summary>
+<summary>Computer vision</summary>
 
 | Name | Description |
 | --- | --- |
@@ -30,7 +74,7 @@
 </details>
 
 <details>
-  <summary>Minecraft</summary>
+<summary>Minecraft</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -39,7 +83,7 @@
 </details>
 
 <details>
-  <summary>Docker boilerplates</summary>
+<summary>Docker boilerplates</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -49,15 +93,16 @@
 </details>
 
 <details>
-  <summary>Distributed networking</summary>
+<summary>Distributed networking</summary>
 
 | Name | Description |
 | --- | --- | 
 | [theia](https://github.com/ramity/theia) | [Incomplete] A stab at allowing opencv operations to be performed by a pool of machines. |
 | [ramium](https://github.com/ramity/ramium) | [Incomplete] A hybrid blockchain network experiment featuring a global PoS blockchain with PoW subchains. |
 </details>
+
 <details>
-  <summary>Utility</summary>
+<summary>Utility</summary>
 
 | Name | Description |
 | --- | --- |
@@ -67,7 +112,7 @@
 </details>
 
 <details>
-  <summary>Scrapers</summary>
+<summary>Scrapers</summary>
 
 | Name | Description |
 | --- | --- |
@@ -80,7 +125,7 @@
 </details>
 
 <details>
-  <summary>Game related</summary>
+<summary>Game related</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -91,7 +136,7 @@
 </details>
 
 <details>
-  <summary>Work</summary>
+<summary>Work</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -100,7 +145,7 @@
 </details>
 
 <details>
-  <summary>Web applications</summary>
+<summary>Web applications</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -110,7 +155,7 @@
 </details>
 
 <details>
-  <summary>Interview</summary>
+<summary>Interview</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -118,7 +163,7 @@
 </details>
 
 <details>
-  <summary>School</summary>
+<summary>School</summary>
 
 | Name | Description |
 | --- | --- | 
@@ -170,7 +215,7 @@
 </details>
 
 <details>
-  <summary>Historical</summary>
+<summary>Historical</summary>
 
 | Name | Description |
 | --- | --- | 
