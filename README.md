@@ -1,9 +1,6 @@
 <h1 align="center">Howdy 🤠</h1>
 <h4 align="center">I'm Lewis. I like a lot of things. I write code.</h4>
 <p align="center">
-  <img src="https://github.com/ramity/ramity/assets/8001375/30202e7d-d2a7-4fd4-9792-dbb01c460ca6">
-</p>
-<p align="center">
   Check out my <a href="https://ramity.github.io/portfolio/">portfolio</a>.
 </p>
 
