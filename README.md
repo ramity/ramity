@@ -17,7 +17,7 @@ I'm Lewis. Welcome to my GitHub! I'm a generalist software engineer with a deep 
 <h1>Hire me</h1>
 
 <p>
-I'm looking for senior and staff software engineering opportunities with a preference towards positions towards individual contributor roles.
+I'm looking for senior & staff software engineering opportunities with a preference towards positions towards individual contributor roles.
 </p>
 
 <h1>Background</h1>
