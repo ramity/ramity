@@ -35,7 +35,7 @@ In freshman year of college, I got my first official position doing software as 
 </p>
 
 <p>
-At some point I decided to extend my time in academia to pursue a master's degree. I liked the idea of exploring AI and cybersecurity further to add some more tools to my toolkit. I got a research assistantship and contributed to a DoE funded project doing AI powered CVE patch recommendation and remediation for cortical devices on US electrical grids. Alongside that work, I did a thesis on a new way of distributed training using hybrid context unaware indexing to enable privacy preserving, deterministic, and auditable training of models offering configurable resilience to node drop out and privacy guarantees. During my last semester, I did a teaching assistantship position for incoming freshman programming foundations I and II. The position instilled a love for mentoring and teaching.
+At some point I decided to extend my time in academia to pursue a master's degree. I liked the idea of exploring AI and cybersecurity further to add some more tools to my toolkit. I got a research assistantship and contributed to a DoE funded project doing AI powered CVE patch recommendation and remediation for critical devices on US electrical grids. Alongside that work, I did a thesis on a new way of distributed training using hybrid context unaware indexing to enable privacy preserving, deterministic, and auditable training of models offering configurable resilience to node drop out and privacy guarantees. During my last semester, I did a teaching assistantship position for incoming freshman programming foundations I and II. The position instilled a love for mentoring and teaching.
 </p>
 
 <p>
