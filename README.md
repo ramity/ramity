@@ -13,6 +13,7 @@ I'm Lewis. Welcome to my GitHub! I'm a generalist software engineer with a deep 
 | [Wrychain](https://github.com/Wrychain) | ⛓️‍💥 An experimental, hackable, mobile-first social platform for custom interactions and shared channels. |
 | [Braillest](https://github.com/Braillest) | 🦮 Open-source braille embossing via 3D-printed molds. Faster than you'd expect, cheaper than anything else. |
 | [Caspnetti](https://github.com/ramity/caspnetti) |  🍝 An opinionated full-stack boilerplate combining a Dockerized C# ASP.NET Core backend with a Vue.js frontend. |
+| [Arc Raiders CV](https://github.com/ramity/arc-raiders-cv) | 🔍 A computer vision framework/toolset for scraping arc raiders videos for meaningful data and statistics over time. |
 
 <h1>Hire me</h1>
 
